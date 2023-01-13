@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+.img1 {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 100px;
+}
+.head1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #363940;
+  position: absolute;
+  top: 420px;
+}
+.p-section1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #95a1bb;
+  width: 300px;
+  position: absolute;
+  top: 443px;
+}
+.section1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 110px;
+  left: 240px;
+}
+.img2 {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 100px;
+  left: 320px;
+}
+.head2 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #363940;
+  position: absolute;
+  top: 420px;
+  left: 320px;
+}
+.p-section2 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #95a1bb;
+  width: 300px;
+  position: absolute;
+  top: 443px;
+  left: 320px;
+}
+.section2 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 110px;
+  left: 560px;
+}
+.img3 {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 100px;
+  left: 640px;
+}
+.head3 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #363940;
+  position: absolute;
+  top: 420px;
+  left: 640px;
+}
+.p-section3 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #95a1bb;
+  width: 300px;
+  position: absolute;
+  top: 443px;
+  left: 640px;
+}
+.section3 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 110px;
+  left: 870px;
+}

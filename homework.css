@@ -1,0 +1,717 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.grid_container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  position: relative;
+  margin-top: 50px;
+}
+.img1 {
+  width: 300px;
+  height: 380px;
+  margin-right: 20px;
+}
+.head1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 22px;
+  color: #363940;
+  margin-top: 10px;
+}
+.p-section1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  margin-top: 20px;
+}
+.button {
+  position: absolute;
+  width: 44px;
+  height: 22px;
+  top: 15px;
+  left: 590px;
+}
+.grid_container2 {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 100px;
+}
+.img2 {
+  width: 650px;
+  height: 400px;
+}
+.p-section2 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  margin-top: 20px;
+}
+.head2 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 22px;
+  color: #363940;
+  margin-top: 10px;
+}
+.grid_container3 {
+  margin-top: 100px;
+  position: relative;
+  margin-bottom: 100px;
+}
+.img3 {
+  width: 1350px;
+  height: 500px;
+}
+.head3 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 22px;
+  color: #363940;
+  margin-top: 20px;
+  margin-bottom: 9px;
+}
+.p-section3 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #95a1bb;
+}
+.p-section4 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+  text-align: right;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 20px;
+  left: 1270px;
+}
+.grid_container4 {
+  display: grid;
+  grid-template-columns: auto auto;
+  position: relative;
+}
+.img4 {
+  width: 650px;
+  height: 650px;
+}
+.p-section5 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 65px;
+  left: 55px;
+}
+.p-sectionn5 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 65px;
+  left: 755px;
+}
+.head5 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 38px;
+  color: #363940;
+  position: absolute;
+  top: 100px;
+  left: 50px;
+}
+.headd5 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 38px;
+  color: #363940;
+  position: absolute;
+  top: 100px;
+  left: 750px;
+}
+.p-section6 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 22px;
+  color: #000000;
+  width: 360px;
+  position: absolute;
+  top: 550px;
+  left: 40px;
+}
+.p-sectionn6 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 22px;
+  color: #000000;
+  width: 360px;
+  position: absolute;
+  top: 550px;
+  left: 750px;
+}
+.grid_container5 {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 100px;
+  position: relative;
+}
+.img5 {
+  width: 650px;
+  height: 300px;
+}
+
+.img7 {
+  width: 650px;
+  height: 300px;
+  position: absolute;
+  top: 350px;
+}
+.img6 {
+  width: 650px;
+  height: 650px;
+}
+.p-section7 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 40px;
+  left: 40px;
+}
+.head6 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 45px;
+  line-height: 38px;
+  color: #363940;
+  position: absolute;
+  top: 80px;
+  left: 40px;
+}
+.p-section8 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 40px;
+  left: 740px;
+}
+.head7 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 45px;
+  line-height: 38px;
+  color: #363940;
+  position: absolute;
+  top: 80px;
+  left: 740px;
+}
+.p-section9 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 40px;
+  left: 40px;
+}
+.head8 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 45px;
+  line-height: 38px;
+  color: #363940;
+  position: absolute;
+  top: 80px;
+  left: 40px;
+}
+.p-section10 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 22px;
+  color: #363940;
+  width: 340px;
+  position: absolute;
+  top: 550px;
+  left: 740px;
+}
+.grid_items6 {
+  position: absolute;
+  top: 350px;
+}
+.grid_container6 {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  position: relative;
+  margin-top: 100px;
+}
+.img8 {
+  width: 300px;
+  height: 300px;
+}
+.img9 {
+  position: absolute;
+  top: 20px;
+  left: 580px;
+}
+.p-section11 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 30px;
+  left: 20px;
+}
+.head9 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #d9dfeb;
+  position: absolute;
+  top: 260px;
+  left: 20px;
+}
+.p-section12 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 30px;
+  left: 370px;
+}
+.head10 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #d9dfeb;
+  position: absolute;
+  top: 260px;
+  left: 370px;
+}
+.p-section13 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 30px;
+  left: 720px;
+}
+.head11 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #d9dfeb;
+  position: absolute;
+  top: 260px;
+  left: 720px;
+}
+.p-section14 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 30px;
+  left: 1070px;
+}
+.head12 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #d9dfeb;
+  position: absolute;
+  top: 260px;
+  left: 1070px;
+}
+.head13 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+  color: #363940;
+  margin-top: 100px;
+}
+.p-section15 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #95a1bb;
+  margin-top: 20px;
+}
+.a1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 20px;
+  text-align: right;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  text-decoration: none;
+  margin-right: 20px;
+}
+.a2 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #95a1bb;
+  text-decoration: none;
+  margin-right: 20px;
+}
+.a {
+  text-align: center;
+  margin-top: 30px;
+}
+.grid_container7 {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  position: relative;
+  margin-top: 40px;
+}
+.img11 {
+  position: absolute;
+  top: 15px;
+  left: 240px;
+}
+.img10 {
+  width: 300px;
+  height: 300px;
+}
+.head14 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #cfd1d8;
+  position: absolute;
+  top: 240px;
+  left: 20px;
+}
+.p-section16 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 270px;
+  left: 20px;
+}
+.head15 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #cfd1d8;
+  position: absolute;
+  top: 240px;
+  left: 370px;
+}
+.p-section17 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 270px;
+  left: 370px;
+}
+.head16 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #cfd1d8;
+  position: absolute;
+  top: 240px;
+  left: 720px;
+}
+.p-section18 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 270px;
+  left: 720px;
+}
+.head17 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #cfd1d8;
+  position: absolute;
+  top: 240px;
+  left: 1070px;
+}
+.p-section19 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 270px;
+  left: 1070px;
+}
+.grid_container8 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  position: relative;
+  margin-top: 40px;
+}
+.img12 {
+  position: absolute;
+  top: 20px;
+  left: 350px;
+}
+.img14 {
+  width: 420px;
+  height: 420px;
+}
+.h1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #ccd1df;
+  position: absolute;
+  top: 350px;
+  left: 20px;
+}
+.p1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 380px;
+  left: 20px;
+}
+.h2 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #ccd1df;
+  position: absolute;
+  top: 350px;
+  left: 490px;
+}
+.p2 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 380px;
+  left: 490px;
+}
+.h3 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #ccd1df;
+  position: absolute;
+  top: 350px;
+  left: 960px;
+}
+.p3 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+  position: absolute;
+  top: 380px;
+  left: 960px;
+}
+.grid_container9 {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin-top: 40px;
+}
+.img15 {
+  width: 300px;
+  height: 300px;
+}
+.star {
+  display: grid;
+  grid-template-columns: auto 110px;
+}
+.h4 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+  color: #363940;
+  margin-top: 100px;
+}
+.h5 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #363940;
+  margin-top: 15px;
+  margin-bottom: 7px;
+}
+.p4 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6e38f7;
+}
+.grid_container10 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin-top: 40px;
+}
+.img16 {
+  width: 420px;
+  height: 350px;
+}
